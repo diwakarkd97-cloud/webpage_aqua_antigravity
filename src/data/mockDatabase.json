@@ -1,0 +1,516 @@
+[
+  {
+    "id": "prod-001",
+    "title": "Premium Betta Fish - Royal Blue Halfmoon Male",
+    "category": "Live Fish",
+    "subCategory": "Freshwater",
+    "brand": "AquaArt",
+    "price": 499,
+    "originalPrice": 799,
+    "rating": 4.8,
+    "reviewsCount": 248,
+    "stock": 14,
+    "images": [
+      "https://images.unsplash.com/photo-1534043464124-3be32fe000c9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1520302257252-8707beec2ba6?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "waterTemp": "24-28°C",
+      "pH": "6.5-7.5",
+      "difficulty": "Beginner",
+      "lifespan": "2-4 Years",
+      "tankSize": "5 Gallons minimum"
+    },
+    "temperament": "Aggressive",
+    "description": "Show-grade vibrant Royal Blue Halfmoon Betta with stunning finnage. Bred in certified aquaculture facilities and guaranteed 100% healthy on arrival.",
+    "isBestseller": true
+  },
+  {
+    "id": "prod-002",
+    "title": "Neon Tetra School (Pack of 10) - Paracheirodon innesi",
+    "category": "Live Fish",
+    "subCategory": "Freshwater",
+    "brand": "AquaArt",
+    "price": 350,
+    "originalPrice": 500,
+    "rating": 4.6,
+    "reviewsCount": 182,
+    "stock": 45,
+    "images": [
+      "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1534043464124-3be32fe000c9?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "waterTemp": "21-26°C",
+      "pH": "6.0-7.0",
+      "difficulty": "Beginner",
+      "lifespan": "3-5 Years",
+      "tankSize": "10 Gallons minimum"
+    },
+    "temperament": "Peaceful",
+    "description": "Active schooling fish radiating iridescent electric blue and crimson red stripes. Perfect peaceful community dwellers for planted aquariums.",
+    "isBestseller": true
+  },
+  {
+    "id": "prod-003",
+    "title": "Ocellaris Clownfish (Nemo) - Captive Bred Pair",
+    "category": "Live Fish",
+    "subCategory": "Saltwater",
+    "brand": "AquaArt",
+    "price": 1850,
+    "originalPrice": 2400,
+    "rating": 4.9,
+    "reviewsCount": 94,
+    "stock": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1520302257252-8707beec2ba6?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "waterTemp": "24-27°C",
+      "pH": "8.1-8.4",
+      "difficulty": "Intermediate",
+      "salinity": "1.020 - 1.025 SG",
+      "tankSize": "20 Gallons minimum"
+    },
+    "temperament": "Peaceful",
+    "description": "Hardy, captive-bred clownfish pair acclimated to home marine aquariums. Beautiful orange and white bands with gentle temperament.",
+    "isBestseller": false
+  },
+  {
+    "id": "prod-004",
+    "title": "Electric Blue African Cichlid (Sciaenochromis fryeri)",
+    "category": "Live Fish",
+    "subCategory": "Freshwater",
+    "brand": "AquaArt",
+    "price": 890,
+    "originalPrice": 1200,
+    "rating": 4.7,
+    "reviewsCount": 67,
+    "stock": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1520302257252-8707beec2ba6?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1534043464124-3be32fe000c9?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "waterTemp": "25-28°C",
+      "pH": "7.8-8.6",
+      "difficulty": "Intermediate",
+      "lifespan": "8-10 Years",
+      "tankSize": "55 Gallons minimum"
+    },
+    "temperament": "Aggressive",
+    "description": "Intense metallic sapphire-blue Lake Malawi cichlid. Highly active territorial species that thrives in rock-scaped cichlid biotope setups.",
+    "isBestseller": false
+  },
+  {
+    "id": "prod-005",
+    "title": "Red Cherry Shrimp (Neocaridina davidi) - 10 Pack",
+    "category": "Live Fish",
+    "subCategory": "Planted",
+    "brand": "AquaArt",
+    "price": 420,
+    "originalPrice": 600,
+    "rating": 4.5,
+    "reviewsCount": 140,
+    "stock": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1516683037151-9a17603a8dc7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "waterTemp": "20-26°C",
+      "pH": "6.5-7.8",
+      "difficulty": "Beginner",
+      "diet": "Algae & Biofilm",
+      "tankSize": "5 Gallons minimum"
+    },
+    "temperament": "Peaceful",
+    "description": "High-grade fire red cleanup crew for planted tanks. Voracious algae grazers that breed readily and keep mosses pristine.",
+    "isBestseller": true
+  },
+  {
+    "id": "prod-006",
+    "title": "Rimless Ultra-Clear Low-Iron Glass Tank (30 Gallon / 115L)",
+    "category": "Tanks",
+    "subCategory": "Planted",
+    "brand": "Fluval",
+    "price": 6499,
+    "originalPrice": 8500,
+    "rating": 4.9,
+    "reviewsCount": 115,
+    "stock": 6,
+    "images": [
+      "https://images.unsplash.com/photo-1546026423-cc4642628d2b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1516683037151-9a17603a8dc7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "dimensions": "36\"L x 12\"W x 16\"H",
+      "glassThickness": "8mm",
+      "glassType": "Optiwhite 91% Clarity",
+      "silicone": "High-grade German Clear Silicone"
+    },
+    "description": "Museum-grade rimless aquarium engineered with diamond-beveled ultra-clear glass for high-definition aquascaping clarity.",
+    "isBestseller": true
+  },
+  {
+    "id": "prod-007",
+    "title": "Desktop Nano Curved Corner Aquarium Kit (10 Gallon / 38L)",
+    "category": "Tanks",
+    "subCategory": "Freshwater",
+    "brand": "Tetra",
+    "price": 3299,
+    "originalPrice": 4200,
+    "rating": 4.4,
+    "reviewsCount": 88,
+    "stock": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1546026423-cc4642628d2b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "dimensions": "20\"L x 10\"W x 12\"H",
+      "glassThickness": "5mm",
+      "features": "Integrated LED Hood & Hidden Filtration"
+    },
+    "description": "Seamless front curved glass corners give panoramic 3D viewing. Perfect starter kit including quiet pump and dual-spectrum LED lighting.",
+    "isBestseller": false
+  },
+  {
+    "id": "prod-008",
+    "title": "Fluval FX6 High Performance Canister Filter (3500 LPH)",
+    "category": "Filters",
+    "subCategory": "Freshwater",
+    "brand": "Fluval",
+    "price": 14999,
+    "originalPrice": 18500,
+    "rating": 4.9,
+    "reviewsCount": 310,
+    "stock": 9,
+    "images": [
+      "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "flowRate": "3500 Liters / Hour",
+      "aquariumCapacity": "Up to 1500 Liters (400 Gal)",
+      "mediaVolume": "5.9 Liters",
+      "smartPump": "Self-priming microchip technology"
+    },
+    "description": "The flagship workhorse canister filter. Features multi-stage filtration baskets, automatic electronic air purge, and ultra-quiet motor.",
+    "isBestseller": true
+  },
+  {
+    "id": "prod-009",
+    "title": "Seachem Tidal 55 Hang-On-Back Power Filter",
+    "category": "Filters",
+    "subCategory": "Planted",
+    "brand": "Seachem",
+    "price": 3450,
+    "originalPrice": 4200,
+    "rating": 4.7,
+    "reviewsCount": 178,
+    "stock": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "flowRate": "1000 LPH",
+      "aquariumCapacity": "Up to 200 Liters (55 Gal)",
+      "features": "Surface skimmer, maintenance monitor alert"
+    },
+    "description": "Engineered by Seachem with self-priming pump, surface oil skimmer, adjustable flow regulation, and extra-large Matrix media basket.",
+    "isBestseller": false
+  },
+  {
+    "id": "prod-010",
+    "title": "Tetra Bits Complete Daily Growth Granules (300g)",
+    "category": "Food",
+    "subCategory": "Freshwater",
+    "brand": "Tetra",
+    "price": 399,
+    "originalPrice": 520,
+    "rating": 4.6,
+    "reviewsCount": 540,
+    "stock": 80,
+    "images": [
+      "https://images.unsplash.com/photo-1516683037151-9a17603a8dc7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "dietaryType": "Slow-sinking Granules",
+      "proteinContent": "47.5%",
+      "weight": "300 grams",
+      "shelfLife": "24 Months"
+    },
+    "description": "Germany's staple diet formulated for all mid-water and bottom fish, enriched with bio-active carotenoids for vivid natural coloration.",
+    "isBestseller": true
+  },
+  {
+    "id": "prod-011",
+    "title": "API Stress Coat Water Conditioner with Aloe Vera (473ml)",
+    "category": "Food",
+    "subCategory": "Freshwater",
+    "brand": "API",
+    "price": 680,
+    "originalPrice": 850,
+    "rating": 4.8,
+    "reviewsCount": 420,
+    "stock": 60,
+    "images": [
+      "https://images.unsplash.com/photo-1546026423-cc4642628d2b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "volume": "473 ml",
+      "treatsVolume": "3,550 Liters",
+      "activeIngredients": "Aloe Vera extract, Dechlorinating agents"
+    },
+    "description": "Instantly removes harmful chlorine and chloramines while replacing fish slime coat and healing damaged scales with soothing Aloe Vera.",
+    "isBestseller": true
+  },
+  {
+    "id": "prod-012",
+    "title": "Natural Malaysian Bonsai Driftwood Hardscape (12-inch)",
+    "category": "Decor",
+    "subCategory": "Planted",
+    "brand": "AquaArt",
+    "price": 1250,
+    "originalPrice": 1699,
+    "rating": 4.5,
+    "reviewsCount": 73,
+    "stock": 11,
+    "images": [
+      "https://images.unsplash.com/photo-1546026423-cc4642628d2b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "material": "Pre-cured natural bogwood",
+      "dimensions": "Approx 12\"H x 9\"W",
+      "safeFor": "Shrimp, Nano fish, Plant attachments"
+    },
+    "description": "Handcrafted miniature bonsai tree trunk ideal for attaching Java Moss or Anubias Nana Petite. Lowers pH naturally with mild tannins.",
+    "isBestseller": false
+  },
+  {
+    "id": "prod-013",
+    "title": "Dragon Stone Scaping Rock (Ohko Stone) - 5 Kg Box",
+    "category": "Decor",
+    "subCategory": "Planted",
+    "brand": "AquaArt",
+    "price": 1100,
+    "originalPrice": 1450,
+    "rating": 4.7,
+    "reviewsCount": 92,
+    "stock": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "weight": "5 Kilograms",
+      "phImpact": "Inert (does not alter water hardness)",
+      "texture": "Porous clay honeycomb"
+    },
+    "description": "Premium cratered Japanese Iwagumi hardscaping rock with distinctive clay pockets for planting micro mosses and creating dramatic crevices.",
+    "isBestseller": false
+  },
+  {
+    "id": "prod-014",
+    "title": "Seachem Prime Concentrated Water Conditioner (500ml)",
+    "category": "Food",
+    "subCategory": "Freshwater",
+    "brand": "Seachem",
+    "price": 1150,
+    "originalPrice": 1400,
+    "rating": 4.9,
+    "reviewsCount": 650,
+    "stock": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1546026423-cc4642628d2b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "volume": "500 ml",
+      "treatsVolume": "20,000 Liters",
+      "neutralizes": "Chlorine, Chloramine, Ammonia, Nitrite, Nitrate"
+    },
+    "description": "The gold standard aquarium conditioner worldwide. Detoxifies heavy metals and temporarily binds toxic ammonia for 48 hours.",
+    "isBestseller": true
+  },
+  {
+    "id": "prod-015",
+    "title": "API Freshwater Master Test Kit (800+ Tests)",
+    "category": "Filters",
+    "subCategory": "Freshwater",
+    "brand": "API",
+    "price": 2490,
+    "originalPrice": 2999,
+    "rating": 4.8,
+    "reviewsCount": 380,
+    "stock": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "testParameters": "pH, High Range pH, Ammonia, Nitrite, Nitrate",
+      "includes": "4 glass test tubes, color charts, reagent bottles"
+    },
+    "description": "Essential laboratory-grade testing kit to monitor water quality parameters and avoid deadly new tank syndrome spikes.",
+    "isBestseller": true
+  },
+  {
+    "id": "prod-016",
+    "title": "GlowLight Danio Glowing Fish (Pack of 6)",
+    "category": "Live Fish",
+    "subCategory": "Freshwater",
+    "brand": "AquaArt",
+    "price": 450,
+    "originalPrice": 600,
+    "rating": 4.3,
+    "reviewsCount": 55,
+    "stock": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1534043464124-3be32fe000c9?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "waterTemp": "22-27°C",
+      "pH": "6.5-7.5",
+      "difficulty": "Beginner",
+      "tankSize": "10 Gallons minimum"
+    },
+    "temperament": "Peaceful",
+    "description": "Lively schooling fish glowing under blue actinic LEDs. Inquisitive, hardy, and energetic surface swimmers.",
+    "isBestseller": false
+  },
+  {
+    "id": "prod-017",
+    "title": "Fluval Plant 3.0 Bluetooth LED Light (32W, 24-34 Inch)",
+    "category": "Decor",
+    "subCategory": "Planted",
+    "brand": "Fluval",
+    "price": 8990,
+    "originalPrice": 10500,
+    "rating": 4.9,
+    "reviewsCount": 142,
+    "stock": 7,
+    "images": [
+      "https://images.unsplash.com/photo-1546026423-cc4642628d2b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "wattage": "32 Watts",
+      "lumens": "2350 lm",
+      "colorTemp": "6500K Full Spectrum RGB+W",
+      "waterproof": "IP67 Rated"
+    },
+    "description": "Smartphone app controlled high-PAR lighting fixture simulating 24-hour sunrise, noon, sunset, and moonlight cycles for lush carpeting plants.",
+    "isBestseller": false
+  },
+  {
+    "id": "prod-018",
+    "title": "Tetra Whisper EX Silent Power Filter 30",
+    "category": "Filters",
+    "subCategory": "Freshwater",
+    "brand": "Tetra",
+    "price": 1899,
+    "originalPrice": 2400,
+    "rating": 4.2,
+    "reviewsCount": 98,
+    "stock": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "flowRate": "600 LPH",
+      "aquariumCapacity": "Up to 120 Liters (30 Gal)",
+      "technology": "Patented timestrip filter cartridge replacement monitor"
+    },
+    "description": "Quiet submersible motor technology minimizes noise while continuous multi-density carbon floss eliminates discoloration.",
+    "isBestseller": false
+  },
+  {
+    "id": "prod-019",
+    "title": "Anubias Nana Petite on Lava Rock (Live Plant)",
+    "category": "Decor",
+    "subCategory": "Planted",
+    "brand": "AquaArt",
+    "price": 380,
+    "originalPrice": 499,
+    "rating": 4.7,
+    "reviewsCount": 164,
+    "stock": 35,
+    "images": [
+      "https://images.unsplash.com/photo-1516683037151-9a17603a8dc7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "growthRate": "Slow",
+      "lightDemand": "Low to Medium",
+      "co2Requirement": "Not required",
+      "origin": "West Africa"
+    },
+    "description": "Pre-rooted lush aquatic plant attached to porous black lava stone. Extremely resilient against herbivorous fish and adaptable to any lighting.",
+    "isBestseller": true
+  },
+  {
+    "id": "prod-020",
+    "title": "Acrylic Marine Reef Peninsula Tank (50 Gallon / 190L)",
+    "category": "Tanks",
+    "subCategory": "Saltwater",
+    "brand": "Fluval",
+    "price": 18990,
+    "originalPrice": 23500,
+    "rating": 4.9,
+    "reviewsCount": 46,
+    "stock": 4,
+    "images": [
+      "https://images.unsplash.com/photo-1546026423-cc4642628d2b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "dimensions": "36\"L x 18\"W x 18\"H",
+      "material": "Cell-cast Acrylic 10mm",
+      "sump": "Integrated 3-chamber rear reef filtration sump"
+    },
+    "description": "3-sided panoramic view peninsula style reef aquarium with built-in overflow weir, protein skimmer chamber, and customizable nozzle return.",
+    "isBestseller": true
+  },
+  {
+    "id": "prod-021",
+    "title": "Discus Fish - Pigeon Blood Red Juveniles (2.5 Inch)",
+    "category": "Live Fish",
+    "subCategory": "Freshwater",
+    "brand": "AquaArt",
+    "price": 1450,
+    "originalPrice": 1950,
+    "rating": 4.7,
+    "reviewsCount": 38,
+    "stock": 7,
+    "images": [
+      "https://images.unsplash.com/photo-1520302257252-8707beec2ba6?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "waterTemp": "28-31°C",
+      "pH": "6.0-6.8",
+      "difficulty": "Advanced",
+      "tankSize": "55 Gallons minimum"
+    },
+    "temperament": "Peaceful",
+    "description": "The King of the Aquarium. Vibrant red honeycomb striations on a pearl-cream base. Farm-raised, eating frozen bloodworms and flake food.",
+    "isBestseller": false
+  },
+  {
+    "id": "prod-022",
+    "title": "Automatic Smart Aquarium Fish Feeder with Wi-Fi Control",
+    "category": "Food",
+    "subCategory": "Freshwater",
+    "brand": "Fluval",
+    "price": 1850,
+    "originalPrice": 2490,
+    "rating": 4.4,
+    "reviewsCount": 112,
+    "stock": 24,
+    "images": [
+      "https://images.unsplash.com/photo-1516683037151-9a17603a8dc7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "specs": {
+      "power": "USB Rechargeable / Battery backup",
+      "capacity": "200ml Hopper",
+      "scheduling": "Up to 6 feedings/day via mobile app"
+    },
+    "description": "Never worry while on vacation. Precision moisture-resistant dispenser prevents food clumping and distributes exact portions.",
+    "isBestseller": false
+  }
+]
